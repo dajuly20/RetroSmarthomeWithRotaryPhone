@@ -33,6 +33,8 @@ sudo service asterisk restart
 
 5) connect Telefone to Fritz!Box
 6) 
+[![IMAGE ALT TEXT HERE](asterisk.png)](http://fritz.box/)
+ 
 
 TODO: init.sh make backups from original asterisk conf
 TODO: Add Fritz!Box config
