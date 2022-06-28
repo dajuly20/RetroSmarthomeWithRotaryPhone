@@ -9,7 +9,32 @@ Click to view on YouTube!
 
 [![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aAor0zQKUaw/0.jpg)](https://www.youtube.com/watch?v=aAor0zQKUawaAor0zQKUaw)
 
+1) 
+Install asterisk 
+```bash
+sudo apt-get update
+sudo apt-get upgrade
+sudo apt-get install asterisk
+```
 
+2)
+clone this repo
+
+3) 
+To install the asterisk config files and the triggered smarthome.sh execute init.sh
+```bash
+./init.sh 
+```
+
+4) restart asterisk
+```bash
+sudo service asterisk restart
+```
+
+5) connect Telefone to Fritz!Box
+6) 
+
+TODO: init.sh make backups from original asterisk conf
 TODO: Add Fritz!Box config
 
 smarthome.sh = /usr/bin/
