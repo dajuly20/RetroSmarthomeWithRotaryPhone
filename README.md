@@ -43,11 +43,7 @@ sudo service asterisk restart
 [![IMAGE ALT TEXT HERE](telefonbuch.PNG)](http://fritz.box/)
 
 8) edit smarthome.sh to make it fit your needs. 
-9) Connect Phone
-10) Dial 81.....  e.g. 8110 calles "./smarthome.sh 10" so all digits after 81 are passed. For my roatary phone, 5 digits are the (time?) timit for it to work.
+9) Connect Phone (if you did not alrady do it in step 5)
+10) Make sure your phone is connected.  
+11) Dial 81.....  e.g. 8110 calles "./smarthome.sh 10" so all digits after 81 are passed. For my roatary phone, 5 digits are the (time?) timit for it to work.
 
-
-TODO: init.sh make backups from original asterisk conf
-TODO: Add Fritz!Box config
-
-smarthome.sh = /usr/bin/
