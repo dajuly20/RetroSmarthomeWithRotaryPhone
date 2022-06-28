@@ -39,7 +39,7 @@ sudo service asterisk restart
 6) Change registar to IP / Hostname of where Asterisk lives for you. The password for this configuration is 1234 as defined asterisk/sip.conf 
 [![IMAGE ALT TEXT HERE](asterisk.png)](http://fritz.box/)
  
-The Fritz!Box then assigns a internal number for this telephone sink, in this case *125# 
+6a) The Fritz!Box then assigns a internal number for this telephone sink, in this case *125# 
 [![IMAGE ALT TEXT HERE](rufnummern.png )](http://fritz.box/)
  
 
