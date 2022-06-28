@@ -19,6 +19,10 @@ sudo apt-get install asterisk
 
 2)
 clone this repo
+```bash
+cd ~
+git clone https://github.com/dajuly20/RetroSmarthomeWithRotaryPhone
+``` 
 
 3) 
 To install the asterisk config files and the triggered smarthome.sh execute init.sh
