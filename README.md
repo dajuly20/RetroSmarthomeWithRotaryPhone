@@ -32,7 +32,7 @@ sudo service asterisk restart
 ```
 
 5) connect Telefone to Fritz!Box
-6) 
+6) Change registar to IP / Hostname of where Asterisk lives for you. The password for this configuration is 1234 as defined asterisk/sip.conf 
 [![IMAGE ALT TEXT HERE](asterisk.png)](http://fritz.box/)
  
 
