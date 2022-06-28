@@ -7,7 +7,7 @@ Telephone over TAE => Fritz!Box over IP => Asterisk running on a Rasperry Pi
 
 Click to view on YouTube!
 
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/aAor0zQKUaw/0.jpg)](https://www.youtube.com/watch?v=aAor0zQKUawaAor0zQKUaw)
+[![IMAGE ALT TEXT HERE](rotaryPhone.PNG)](https://www.youtube.com/watch?v=aAor0zQKUawaAor0zQKUaw)
 
 1) 
 Install asterisk 
